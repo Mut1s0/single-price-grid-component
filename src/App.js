@@ -1,9 +1,13 @@
+import PriceComponent from './PriceComponent';
 import './App.css';
 
 function App() {
+
   return(
-    <h1>App</h1>
-  )
+
+    <PriceComponent />
+
+  );
 }
 
 export default App;

@@ -28,3 +28,12 @@
     --fw-bold: 700;
 
 }
+
+body {
+    background: var(--light-gray);
+    font-size: var(--ff);
+    font-family: var(--ff-karla);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
